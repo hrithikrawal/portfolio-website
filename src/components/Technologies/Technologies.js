@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider/>
     <SectionTitle style={{paddingTop: "50px"}}>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of technologies in the web development world from design to frontend development.I also have work experience in backend.
+      I've worked with a range of technologies in the web development world from design to frontend development. I also have work experience in backend.
     </SectionText>
     <List>
       <ListItem>
