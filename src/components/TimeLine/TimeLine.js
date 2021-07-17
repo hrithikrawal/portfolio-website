@@ -47,7 +47,7 @@ const Timeline = () => {
       <SectionDivider />
        <SectionTitle style={{paddingTop:'50px'}}>About Me</SectionTitle>
        <SectionTextAbout>
-       I've studeid Bachelor of Computer Application. I have experience developing and designing software for the web, I love learning new and better ways to create seamless user experiences with clean, efficient, and scalable code.I'm looking for opportunities to work with those who are willing to share their knowledge as much as I want to learn. At the end of the day, my primary goal is to create something beautiful with people that bring out the best in me.
+       I've studied Bachelor of Computer Application. I have experience developing and designing software for the web, I love learning new and better ways to create seamless user experiences with clean, efficient, and scalable code.I'm looking for opportunities to work with those who are willing to share their knowledge as much as I want to learn. At the end of the day, my primary goal is to create something beautiful with people that bring out the best in me.
        </SectionTextAbout>
        <ImageContainer >
        <Image src="/images/hrithik1.jpg" alt="not supported in your browser"/>
