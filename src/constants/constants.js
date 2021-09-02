@@ -1,12 +1,21 @@
 export const projects = [
   {
+    title: 'Easy Bank Landing Page',
+    description: "This is a responsive landing page challange from fron-end mentore, I build this website using Html and Sass",
+    image: '/images/easybank.jpg',
+    tags: ['Html', 'Sass'],
+    source: 'https://github.com/hrithikrawal/EASYBANK-landing-page',
+    visit: 'https://web-easybank.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'E-commerce',
     description: "Using React, Django I build a Full Stack simple e-commerce app that allows users to login and buy & review the products.",
       image: '/images/Project1.png',
       tags: ['React', 'Django', 'Python'],
     source: 'https://github.com/hrithikrawal/shopzila-live',
     visit: 'https://shopzila.herokuapp.com/',
-    id: 0,
+    id: 1,
   },
   {
     title: 'Food Recipe',
@@ -15,7 +24,7 @@ export const projects = [
     tags: ['Html', 'Css', 'JavaScript'],
     source: 'https://github.com/hrithikrawal/food-web',
     visit: 'https://hrithikrawal.github.io/food-web/',
-    id: 1,
+    id: 2,
   },
   {
     title: 'E-commerce',
@@ -24,7 +33,7 @@ export const projects = [
       tags: ['Javascript', 'Bootstrap', 'Django', 'Python'],
     source: 'https://github.com/hrithikrawal/shop-4-u',
     visit: 'https://shop-4-u.herokuapp.com/',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Landing Page',
@@ -33,15 +42,7 @@ export const projects = [
       tags: ['Html', 'Sass'],
     source: 'https://github.com/hrithikrawal/UI-Responsive-Website',
     visit: 'https://leica-cam.netlify.app/',
-    id: 3,
+    id: 4,
   },
 
 ];
-
-// export const TimeLineData = [
-//   { year: 2017, text: 'Started my journey', },
-//   { year: 2018, text: 'Worked as a freelance developer', },
-//   { year: 2019, text: 'Founded JavaScript Mastery', },
-//   { year: 2020, text: 'Shared my projects with the world', },
-//   { year: 2021, text: 'Started my own platform', },
-// ];
