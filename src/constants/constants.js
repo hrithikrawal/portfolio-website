@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Easy Bank Landing Page',
-    description: "This is a responsive landing page challange from fron-end mentore, I build this website using Html and Sass",
+    description: "This is a responsive landing page challange from fron-end mentore, I build this website using Html, Sass and Javascript",
     image: '/images/easybank.jpg',
     tags: ['Html', 'Sass'],
     source: 'https://github.com/hrithikrawal/EASYBANK-landing-page',
@@ -18,13 +18,22 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'Sunnyside landing page',
+    description: "This is a responsive landing page challange from fron-end mentore, I build this website using Html, Css and Javascript",
+    image: '/images/sunnyside.jpg',
+    tags: ['Html', 'Css', 'Javascript'],
+    source: 'https://github.com/hrithikrawal/sunnyside-landing-page',
+    visit: 'https://hrithikrawal.github.io/sunnyside-landing-page/',
+    id: 2,
+  },
+  {
     title: 'Food Recipe',
     description:"Using Javascript and TheMealDb api I build a food recipe app and the tutorial is also available.",
     image: '/images/Project2.png',
     tags: ['Html', 'Css', 'JavaScript'],
     source: 'https://github.com/hrithikrawal/food-web',
     visit: 'https://hrithikrawal.github.io/food-web/',
-    id: 2,
+    id: 3,
   },
   {
     title: 'E-commerce',
@@ -33,7 +42,7 @@ export const projects = [
       tags: ['Javascript', 'Bootstrap', 'Django', 'Python'],
     source: 'https://github.com/hrithikrawal/shop-4-u',
     visit: 'https://shop-4-u.herokuapp.com/',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Landing Page',
@@ -42,7 +51,7 @@ export const projects = [
       tags: ['Html', 'Sass'],
     source: 'https://github.com/hrithikrawal/UI-Responsive-Website',
     visit: 'https://leica-cam.netlify.app/',
-    id: 4,
+    id: 5,
   },
 
 ];
